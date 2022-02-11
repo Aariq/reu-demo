@@ -1,5 +1,5 @@
 # An example R script
 
-print("hElLo wOrLd!!")
+print("Hellow World!")
 
 plot(iris)
